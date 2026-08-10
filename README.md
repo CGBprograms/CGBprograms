@@ -1,6 +1,6 @@
 # Howdy, I'm Carlos Baltazar 👋
 
-I'm a student at Texas A&M University with a passion for learning, building, or trying something new.
+I'm a engineering student at Texas A&M University with a passion for learning, building, or trying something new.
 
 ---
 
