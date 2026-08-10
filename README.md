@@ -1,6 +1,6 @@
 # Howdy, I'm Carlos Baltazar 👋
 
-I'm a student at Texas A&M University with a passion for learning, building, and diving into anything new — whether that's a game, a circuit, or a language.
+I'm a student at Texas A&M University with a passion for learning, building, or trying something new.
 
 ---
 
@@ -22,7 +22,7 @@ Game Development · Web Development · Electronics · Soccer · Ping Pong · Lif
 
 ## 🎮 CGB Games
 
-I also run **CGB Games**, an indie game studio I'm building from the ground up. I have a deep passion for game development and I'm always looking to grow — follow along if you're interested in the journey.
+I also run **CGB Games**, an indie game studio I'm building from the ground up. I believe everyone deserves a way to express themselves through art, and for me that art is video games. If you're interested in joining the journey, follow along and reach out if you have any ideas.
 
 | Platform | Link |
 |----------|------|
