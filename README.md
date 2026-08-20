@@ -2,6 +2,8 @@
 
 I'm a engineering student at Texas A&M University with a passion for learning, building, or trying something new.
 
+My Portfolio/Website: [Portfolio](https://cgbprograms.github.io/my-website/).
+
 ---
 
 ## 💻 Skills & Tech Stack
